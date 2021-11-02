@@ -1,0 +1,13 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+src/guesinggame.egg-info/PKG-INFO
+src/guesinggame.egg-info/SOURCES.txt
+src/guesinggame.egg-info/dependency_links.txt
+src/guesinggame.egg-info/top_level.txt
+src/guess/GuessResult.py
+src/guess/GuessingGame.py
+src/guess/Main.py
+src/guess/Renderer.py
+src/guess/__init__.py
